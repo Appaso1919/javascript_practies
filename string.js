@@ -14,3 +14,12 @@ for(let i=str.length-1; i>=+0; i--){
     str=str+str.charAt(i);
 }
 console.log(str);
+
+//lenght of words
+function stringLength() {
+    const str = "appaso avaghadi";
+
+    console.log("String Length: " + str.length);
+}
+stringLength();
+
