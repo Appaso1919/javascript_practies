@@ -22,8 +22,10 @@ const divide = function (a, b) {
 };
  console.log("Divideing :",divide(10, 2)); 
 
-//multiplication unction
+//multiplication function
  function multiply(a, b) {
     return a * b;
 }
 console.log("Multiplication:",multiply(3, 4)); 
+
+
